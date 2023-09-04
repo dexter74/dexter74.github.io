@@ -1,7 +1,6 @@
-############################
-# --- Required options --- #
-############################
-
+################################################################################################################################
+# Information sur le site #
+###########################
 # Auteur du site
 author: Marc Jaffré
 
@@ -15,3 +14,12 @@ theme: jekyll-theme-minimal
 title: Drthrax74
 
 
+################################################################################################################################
+# Gestion du menu #
+###################
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Accueil de l'auteur: "https://dexter74.github.io/"
