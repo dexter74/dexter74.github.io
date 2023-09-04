@@ -1,3 +1,17 @@
-theme: jekyll-theme-minimal
-title: Drthrax74
+############################
+# --- Required options --- #
+############################
+
+# Auteur du site
+author: Marc Jaffré
+
+# Description du site
 description: Documentation par Marc Jaffré
+
+# Theme du site
+theme: jekyll-theme-minimal
+
+# Nom du Site
+title: Drthrax74
+
+
